@@ -1,8 +1,8 @@
 {
-    "to": "To&nbsp;&nbsp;小柯",
+    "to": "To&nbsp;&nbsp;小柯 小柯",
     "from": "小宇",
     "recipient": "致亲爱的小柯",
-    "sender": "小宇",
+    "sender": "小宇 小宇",
     "title": "eLuvLetter",
     "stamp": "./img/stamp.png",
     "bgm": "./bgm/bgm.mp3",
